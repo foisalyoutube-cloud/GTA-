@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GTA VI CLIPPING</string>
+    <string name="nav_studio">Clip Studio</string>
+    <string name="nav_live">Live Creators</string>
+    <string name="nav_clips">My Clips</string>
+    <string name="nav_setup">Quick Setup</string>
+    <string name="simulated_pipeline_badge">Simulated Pipeline</string>
+    <string name="host_session_warning">Keep this app session active on your device so live stream monitoring and auto-clipping can detect hype spikes continuously.</string>
+</resources>

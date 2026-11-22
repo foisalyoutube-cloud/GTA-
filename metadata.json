@@ -1,0 +1,6 @@
+{
+  "name": "GTA VI CLIPPING",
+  "description": "AI Gaming & Live Stream Clipping Studio for framing 9:16 vertical shorts with Facecam and Gameplay zones, live creator auto-clipping, and Gemini AI viral hooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
